@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773697472878",
+    "project_id": "ocrapp-c716b",
+    "storage_bucket": "ocrapp-c716b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773697472878:android:badf5a1065c4e3fb52997f",
+        "android_client_info": {
+          "package_name": "com.example.ocrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773697472878-7aaip3u1c13io9obgoe72tu14db281bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa84JtBEI8kbgsqxb5MHkIo-bO7gKFDLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773697472878-7aaip3u1c13io9obgoe72tu14db281bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
